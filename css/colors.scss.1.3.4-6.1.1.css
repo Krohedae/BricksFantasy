@@ -1,0 +1,15 @@
+:root {
+  --primaryColor: #ffffff;
+  --links: #ffffff;
+  --background: #ffffff;
+  --secodnary: #6c757d;
+  --textDark: #212529;
+  --textLight: #212529;
+  --section: #ffffff;
+  --bodyFontSize: 18px;
+  --fontFamily: Lora;
+  --headerBg: #135200;
+  --footerBg: #135200;
+  --menuColor: #ffffff;
+  --btnText: #ffffff;
+}
